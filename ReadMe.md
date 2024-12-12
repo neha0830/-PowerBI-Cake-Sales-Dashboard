@@ -15,13 +15,13 @@ The project aims to visualize and analyze the sales data of cakes over a 12-mont
 
 ## Screenshots
 ### Line Chart
-![Line Chart](./Pictures/line.png)
+![Line Chart](./pictures/line.png)
 
 ### Bar Chart
-![Bar Chart](./Pictures/bar.png)
+![Bar Chart](./pictures/bar.png)
 
 ### Full Dashboard
-![Dashboard](./Pictures/dashboard.png)
+![Dashboard](./pictures/dashboard.png)
 
 ## Insights
 - Sales peak in **October** with **0.2M units sold**.
@@ -30,5 +30,4 @@ The project aims to visualize and analyze the sales data of cakes over a 12-mont
 
 ## Technologies Used
 - **Power BI**: For creating the dashboard and visualizations.
-- **SQL** (optional): For data preprocessing.
 - **Excel/CSV**: For data storage and manipulation.
